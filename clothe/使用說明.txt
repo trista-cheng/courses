@@ -1,7 +1,7 @@
 借用 django 框架建立本地端的網站
 若要重現可藉由 requirements.txt 建立環境
 
-可觀看使用流程影片
+可觀看使用流程影片 https://drive.google.com/file/d/1KIWFRxyNXW3q68ImH1-wIhBNgB_0PSaK/view?usp=sharing
 
 在 首頁:
     使用者選取 性別 縣市 星座 顏色
